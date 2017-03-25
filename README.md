@@ -23,3 +23,9 @@ para anciões de crenças muito diferentes (amoral), e replicável por indivídu
 dentro das piores prisões como objetivo para si e para futuras crianças sem
 que a razão principal seja reforçar, ou refutar ou substituir os anciões
 (meta-fecilidade), tal ideia será poderosa e altamente replicável; (...)
+4. Assumindo que pessoas aprendem por imitação, e inspirar presentes com
+significado especial gera impacto também em quem é presenteado, você causa
+impacto em todos que percebem a ação; o primeiro passo não precisa ser perfeito,
+e a originalidade não está no presente físico ou no dinheiro, mas no sentimento.
+(veja projeto [Estratégias para familiares no incentivo ao Desenvolvimento
+Cognitivo de descendentes](https://github.com/fititnt/presente-cognitivo)).
