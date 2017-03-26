@@ -29,3 +29,27 @@ impacto em todos que percebem a ação; o primeiro passo não precisa ser perfei
 e a originalidade não está no presente físico ou no dinheiro, mas no sentimento.
 (veja projeto [Estratégias para familiares no incentivo ao Desenvolvimento
 Cognitivo de descendentes](https://github.com/fititnt/presente-cognitivo)).
+5. "Como criar filhos" é possivelmente o maior tabu ao ponto de nem mesmo
+ser chamado de tabu, pois a tendência é que todos achem que sua infância não
+foi tão boa como deveria; quando você ouve "quando tiver filhos vai me
+entender" parece ser uma senha para "cuido melhor de você do que fizeram
+comigo" mas na verdade é "espero que eu esteja te machucando menos do que eu
+fui machucado"
+6. Um segredo intuitivo (e até verificável se prestar atenção e fizer perguntas
+corretas de forma sensível) a oposição forte ou no mínimo falta de apoio
+masculino a grupos que afirmem "todo homem é um estuprador", vulgarização uso
+do termo estupro e até mesmo ridicularizem homens de reclamar de seus problemas,
+como brincadeiras com "male tears" é que meninos também são vítimas de
+estupro na infância, período da vida onde é comum que o abuso seja
+recorrente; tal abordagem de não dar margem para vítimas homens e de induzir
+generalizações sobre homens, pode gerar até mesmo absurdos como a de que se ele
+admitir que sofreu e não concorda com o abuso será acusado de estuprador pois
+ele repetirá o padrão; os mecanismos de enfrentamento em homens são diferentes
+do que mulheres, sendo que demonstração de homofobia (para se afastar da ideia
+de que ser vítima o torna homosexual) e demonstrações agressividade publica
+contra estupradores comuns; acredito, enfim, que demonstrar sensibilidade
+de que homens, ou ao menos crianças do sexo masculino, possam ser vítimas
+de outros homens (em detrimento de achar que todos são iguais), de não
+exagerar estatisticas e, definitivamente, a inutilidade prática de piadas
+insensibilizantes como "male tears" faça grande diferença pra sensibilizar
+até mesmo os homens que são fortemente contra.
