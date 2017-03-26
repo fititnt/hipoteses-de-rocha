@@ -53,3 +53,11 @@ de outros homens (em detrimento de achar que todos são iguais), de não
 exagerar estatisticas e, definitivamente, a inutilidade prática de piadas
 insensibilizantes como "male tears" faça grande diferença pra sensibilizar
 até mesmo os homens que são fortemente contra.
+7. **Algorítimo de compressão cerebral** é um nome para o conceito de ensino
+que une ensino e aprendizagem de metagocnição, estratégias de aprendizagem
+por interação com o ambiente e estratégias de interação outros seres vivos;
+uma abordagem ideal é um modelo mínimo onde o ensino básico seja simples ao
+ponto de que uma pessoa que aprendeu possa replicar imediatamente para uma
+nova pessoa, sem supervisão; outro ponto importante é de que a eficiência
+é maximizada ao otimizar o algorítimo, e não na sobrecarga de dados. (_Esse
+conceito é especialmente útil para crianças sem supervisão e cientístas_)
