@@ -5,7 +5,7 @@ educação familiar e autoeficácia.
 
 ## Hipóteses
 
-1. Efeito borboleta social - ideia de que interações com uma pessoa refletem
+1. **Efeito borboleta social** - ideia de que interações com uma pessoa refletem
 em outras pessoas - é intuitívo entre amigos e familiares por milênios;
 as redes sociais na internet podem dar percepção de deixar isso mais claro,
 rápido e evidente, porém ao mesmo passo que um indivíduo aprende como multidões
@@ -61,3 +61,4 @@ ponto de que uma pessoa que aprendeu possa replicar imediatamente para uma
 nova pessoa, sem supervisão; outro ponto importante é de que a eficiência
 é maximizada ao otimizar o algorítimo, e não na sobrecarga de dados. (_Esse
 conceito é especialmente útil para crianças sem supervisão e cientístas_)
+8. [Hipótese da Criatividade Familiar](criatividade-familiar.md).
