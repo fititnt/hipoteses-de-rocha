@@ -94,7 +94,7 @@ ou, em casos específicos, agressivas contra as mulheres se o comportamento
 típico de tal entrevistado tende a ser uma estratégia de enfrentamento para
 traumas anteriores;
 11. **Ao repassar uma história na frente de pessoa parceira afetiva que concorda
-com a causa dela sempre haverá impacto**, e, mesmo que tal história não seja
+com a causa sempre haverá impacto**, e, mesmo que tal história não seja
 crítica ao comportamento dela, mas que alguém como ela poderia cometer, **tal
 impacto poderá ser negativo** na relação nas semanas seguintes: pense que o
 cérebro humano é mais otimizado para evitar a dor do que para desejar prazer,
@@ -144,3 +144,14 @@ os padrões pessoais que façam sentido entre vocês dois na relação; essa teo
 se aplica se aplica a qualquer gênero, e possivelmente é uma boa estratégia de
 enfrentamento para parceiros que se amam e defendem causas que impactem em
 relações afetivas.
+12. **Diga _"que legal! isso que você descobriu também foi descoberto pelo
+gênio Fulano de Tal! Tenho orgulho de você! Continue assim! 😃" por padrão para
+incentivar criatividade**, se você está em dúvida se a pessoa descobriu sozinha
+ou se ela aprendeu; não há problema em perguntar **depois** como a outra pessoa
+chegou essa conclusão, e, se não foi sozinha, ainda assim procurar dizer
+de forma sincera afirmações incentivadoras; há problema dizer "já descobriram
+isso" ou "não reinvente a roda", "não perca tempo com isso" pois desmotivam;
+ainda que essa abordagem pareça instintivamente ideal para crianças, considere
+variações dela também para conversas com adultos tendo em mente que suas
+afirmações ou perguntas sempre tem impacto, mesmo em pessoa que mal lhe conhece
+ou que minimiza seus próprios feitos.
