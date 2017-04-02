@@ -31,13 +31,13 @@ e a originalidade não está no presente físico ou no dinheiro, mas no sentimen
 Cognitivo de descendentes](https://github.com/fititnt/presente-cognitivo)).
 5. "Como criar filhos" é possivelmente o maior tabu ao ponto de nem mesmo
 ser chamado de tabu, pois a tendência é que todos achem que sua infância não
-foi tão boa como deveria; quando você ouve "quando tiver filhos vai me
-entender" parece ser uma senha para "cuido melhor de você do que fizeram
-comigo" mas na verdade é "espero que eu esteja te machucando menos do que eu
-fui machucado"
+foi tão boa como deveria; quando você ouve _"quando tiver filhos vai me
+entender"_ parece ser uma senha para _"cuido melhor de você do que fizeram
+comigo"_ mas na verdade é _"espero que eu esteja te machucando menos do que eu
+fui machucado"_.
 6. Um segredo intuitivo (e até verificável se prestar atenção e fizer perguntas
 corretas de forma sensível) a oposição forte ou no mínimo falta de apoio
-masculino a grupos que afirmem "todo homem é um estuprador", vulgarização uso
+masculino a grupos que afirmem _"todo homem é um estuprador"_, vulgarização uso
 do termo estupro e até mesmo ridicularizem homens de reclamar de seus problemas,
 como brincadeiras com "male tears" é que meninos também são vítimas de
 estupro na infância, período da vida onde é comum que o abuso seja
@@ -61,7 +61,7 @@ ponto de que uma pessoa que aprendeu possa replicar imediatamente para uma
 nova pessoa, sem supervisão; outro ponto importante é de que a eficiência
 é maximizada ao otimizar o algorítimo, e não na sobrecarga de dados. (_Esse
 conceito é especialmente útil para crianças sem supervisão e cientístas_)
-8. [Hipótese da Criatividade Familiar](criatividade-familiar.md).
+8. [Hipótese da Criatividade Familiar](https://github.com/fititnt/criatividade-familiar).
 9. **Algoritmo de Compreensão da Mente** é um nome para o conceito de ensino
 que use, com uma relação aceitável entre horas necessárias para ensinar com
 ótimo retorno em compreensão de como um humano pode compreender outro
@@ -86,8 +86,8 @@ pequenos estresses emocionais** que passa durante o dia; essa abordagem funciona
 porque é comum homens serem _insensibilizados_ quanto a poderem ou não ter
 sentimentos e mesmo que ele esteja entre outros homens na mesma sala, tenderá
 fortemente a dizer algo que se aproxima de pensamento neutro sem sofrer influência
-dos demais; talvez tal padrão funcione também com não homens; dizer "pense como
-se fosse uma mulher no seu lugar" pode resultar em uma resposta fortemente
+dos demais; talvez tal padrão funcione também com não homens; dizer _"pense como
+se fosse uma mulher no seu lugar"_ pode resultar em uma resposta fortemente
 baseada em questões culturais ou aceitáveis entre os homens mais próximos do
 entrevistado, possivelmente agressivas/desumanizadoras contra de homens em geral
 ou, em casos específicos, agressivas contra as mulheres se o comportamento
@@ -102,8 +102,8 @@ e que relações amorosas sempre tenderão ao altruísmo; a real pergunta é: ta
 história envolve divisão entre agressor e agredido coloca responsabilidade
 para evitar agressão majoritariamente no agressor enquanto permite que o
 agredido se sinta coagido ao ponto de ter que mentir? Se a resposta é sim,
-mesmo que a pessoa parceira diga na sua frente que "concorda e vai passar
-adiante a história" haverá forte tendência de se comparar ao agressor da
+mesmo que a pessoa parceira diga na sua frente que _"concorda e vai passar
+adiante a história"_ haverá forte tendência de se comparar ao agressor da
 história e possivelmente entrar em um círculo vicioso altruísta; a parte
 visível do círculo é que evitará situações que levem a hipoteticamente realizar
 o tipo de agressão reclamada; a parte negativa é que, se por questões naturais
@@ -111,8 +111,8 @@ em um relacionamento ela se aproximar do padrão contato na história e, mesmo p
 mesmo por motivos não relacionados ela se identificar com agressor e você, que
 nega agressão, com a agredita, isso fará com que agrave o estado onde ela irá
 tender a se boicotar no relacionamento e preparar para separação sem dar isso
-como uma das razões e simplificar com argumentos genéricos como "acredito que
-nos afastarmos é melhor para você", e você tenderá a aceitar, pois antes de
+como uma das razões e simplificar com argumentos genéricos como _"acredito que
+nos afastarmos é melhor para você"_, e você tenderá a aceitar, pois antes de
 chegar nesse nível extremo de altruísmo é comum que a pessoa parceira demonstre
 tristeza sem razão lógica, pois ela tem medo de ser lembrada como agressora
 de quem mais amava; esse comportamento pode ajudar a entender, por exemplo,
@@ -146,11 +146,11 @@ enfrentamento para parceiros que se amam e defendem causas que impactem em
 relações afetivas.
 12. **Diga _"que legal! isso que você descobriu também foi descoberto pelo
 gênio Fulano de Tal! Tenho orgulho de você! Continue assim! 😃" por padrão para
-incentivar criatividade**, se você está em dúvida se a pessoa descobriu sozinha
+incentivar criatividade_**, se você está em dúvida se a pessoa descobriu sozinha
 ou se ela aprendeu; não há problema em perguntar **depois** como a outra pessoa
 chegou essa conclusão, e, se não foi sozinha, ainda assim procurar dizer
-de forma sincera afirmações incentivadoras; há problema dizer "já descobriram
-isso" ou "não reinvente a roda", "não perca tempo com isso" pois desmotivam;
+de forma sincera afirmações incentivadoras; há problema dizer _"já descobriram
+isso"_, _"não reinvente a roda"_ e _"não perca tempo com isso"_ pois desmotivam;
 ainda que essa abordagem pareça instintivamente ideal para crianças, considere
 variações dela também para conversas com adultos tendo em mente que suas
 afirmações ou perguntas sempre tem impacto, mesmo em pessoa que mal lhe conhece
