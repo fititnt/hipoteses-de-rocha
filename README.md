@@ -93,3 +93,54 @@ entrevistado, possivelmente agressivas/desumanizadoras contra de homens em geral
 ou, em casos específicos, agressivas contra as mulheres se o comportamento
 típico de tal entrevistado tende a ser uma estratégia de enfrentamento para
 traumas anteriores;
+11. **Ao repassar uma história na frente de pessoa parceira afetiva que concorda
+com a causa dela sempre haverá impacto**, e, mesmo que tal história não seja
+crítica ao comportamento dela, mas que alguém como ela poderia cometer, **tal
+impacto poderá ser negativo** na relação nas semanas seguintes: pense que o
+cérebro humano é mais otimizado para evitar a dor do que para desejar prazer,
+e que relações amorosas sempre tenderão ao altruísmo; a real pergunta é: tal
+história envolve divisão entre agressor e agredido coloca responsabilidade
+para evitar agressão majoritariamente no agressor enquanto permite que o
+agredido se sinta coagido ao ponto de ter que mentir? Se a resposta é sim,
+mesmo que a pessoa parceira diga na sua frente que "concorda e vai passar
+adiante a história" haverá forte tendência de se comparar ao agressor da
+história e possivelmente entrar em um círculo vicioso altruísta; a parte
+visível do círculo é que evitará situações que levem a hipoteticamente realizar
+o tipo de agressão reclamada; a parte negativa é que, se por questões naturais
+em um relacionamento ela se aproximar do padrão contato na história e, mesmo por
+mesmo por motivos não relacionados ela se identificar com agressor e você, que
+nega agressão, com a agredita, isso fará com que agrave o estado onde ela irá
+tender a se boicotar no relacionamento e preparar para separação sem dar isso
+como uma das razões e simplificar com argumentos genéricos como "acredito que
+nos afastarmos é melhor para você", e você tenderá a aceitar, pois antes de
+chegar nesse nível extremo de altruísmo é comum que a pessoa parceira demonstre
+tristeza sem razão lógica, pois ela tem medo de ser lembrada como agressora
+de quem mais amava; esse comportamento pode ajudar a entender, por exemplo,
+por que relacionamento com parceiros que se importem com sua causa e tenham
+empatia verdadeira se afastem; explicaria também porque histórias onde parceiros
+afetivos que _"parecem se importar"_ são tão ou mais agressores em potencial são
+ainda mais nocivas pois, embora sejam verdadeiras -- a exemplo de pessoas
+anti-sociais que intencionalmente caçam vítimas dentro de grupos de certas
+causas -- criam ainda mais identificação com quem não deveria; pessoas que,
+mesmo sem passar por situação de agressão forte mas tem ou seu relacionamento,
+ou de pessoas próximas, que terminem por desistência de parceiro tendem a usar
+como estratégia de enfrentamento uma das três opções: 1) desistir de conseguir
+novos parceiros amorosos 2) conseguir parceiros amorosos que não tem empatia
+pelas causas que acredita ou 3) desiste de defender publicamente as causas;
+assumindo que você acredite que tais premissas sejam verdadeiras -- e, note,
+podem não ser, ou não ser para seu caso -- outra boa pergunta seria: _"como
+permanecer defendendo uma causa que envolve histórias que pessoa parceira que
+também apoie a causa mas que poderia se identificar como causadora de dor em
+mim, e que eu negar que sofro não é suficiente?"_; minha teoria para reduzir
+esse perigo é procurar **soluções que permitam pessoa agressora saber de forma
+clara e inegável se está agredindo** e que tal ação seja inconfundível; se a
+solução não é algo que é universalmente aceito, pois há relações pessoais que
+permitem (ou mesmo desejam) passar certos limites, tenha uma conversa direta
+com a pessoa parceira e defina um padrão pessoal claro e objetivo entre vocês
+dois, e TODA vez que pessoa parceira ver você repassando uma história que
+não é suficientemente clara como potencial agressor sabe se está ou não
+agredindo, independente da pessoa parceira parecer entender, reforce com ela
+os padrões pessoais que façam sentido entre vocês dois na relação; essa teoria
+se aplica se aplica a qualquer gênero, e possivelmente é uma boa estratégia de
+enfrentamento para parceiros que se amam e defendem causas que impactem em
+relações afetivas.
