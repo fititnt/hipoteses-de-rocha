@@ -77,4 +77,19 @@ adultos que por fatores genéticos que afetam Teoria da Mente ou por traumas
 tenham dificuldades muito acima da média de compreender e serem compreendidos;
 das crianças para validar esse algorítimo, não é requisito serem neurotípicas,
 mas é ideal que tenham predisposição a criatividade e pesquisa científica, como
-com aplicação da **Hipótese da Criatividade Familiar**
+com aplicação da **Hipótese da Criatividade Familiar**.
+10. _"Isso é muito, mas muito importante: pense e responda a próxima perguntas
+imaginando que você é uma criança, em vez de um homem adulto como de fato é
+hoje"_ é uma boa **abordagem para fazer entrevista com homens quando o
+o questionamento a seguir requer que a pessoa esteja aberta para entender
+pequenos estresses emocionais** que passa durante o dia; essa abordagem funciona
+porque é comum homens serem _insensibilizados_ quanto a poderem ou não ter
+sentimentos e mesmo que ele esteja entre outros homens na mesma sala, tenderá
+fortemente a dizer algo que se aproxima de pensamento neutro sem sofrer influência
+dos demais; talvez tal padrão funcione também com não homens; dizer "pense como
+se fosse uma mulher no seu lugar" pode resultar em uma resposta fortemente
+baseada em questões culturais ou aceitáveis entre os homens mais próximos do
+entrevistado, possivelmente agressivas/desumanizadoras contra de homens em geral
+ou, em casos específicos, agressivas contra as mulheres se o comportamento
+típico de tal entrevistado tende a ser uma estratégia de enfrentamento para
+traumas anteriores;
