@@ -62,3 +62,19 @@ nova pessoa, sem supervisão; outro ponto importante é de que a eficiência
 é maximizada ao otimizar o algorítimo, e não na sobrecarga de dados. (_Esse
 conceito é especialmente útil para crianças sem supervisão e cientístas_)
 8. [Hipótese da Criatividade Familiar](criatividade-familiar.md).
+9. **Algoritmo de Compreensão da Mente** é um nome para o conceito de ensino
+que use, com uma relação aceitável entre horas necessárias para ensinar com
+ótimo retorno em compreensão de como um humano pode compreender outro
+profundamente mesmo que o humano a ser compreendido não tenha consciência de
+si; a provável abordagem para validar o algoritmo eficiente e que funcione
+de forma genérica é com crianças que, com discussão entre seus pares, deduzam
+corretamente o que outra pessoa estava pensando ao fazer ou deixar de fazer
+uma ação, e a conclusão que chegarem deverá ser melhor do que um psicólogo ou
+terapeuta com experiência típica de sua época conseguiria deduzir, mesmo que
+tal conjunto de crianças precise de tempo razoável para empiricamente testarem
+suas teorias; a provável abordagem para deduzir tal algorítimo é testar com
+adultos que por fatores genéticos que afetam Teoria da Mente ou por traumas
+tenham dificuldades muito acima da média de compreender e serem compreendidos;
+das crianças para validar esse algorítimo, não é requisito serem neurotípicas,
+mas é ideal que tenham predisposição a criatividade e pesquisa científica, como
+com aplicação da **Hipótese da Criatividade Familiar**
