@@ -5,18 +5,6 @@ através de discussão que, mesmo sem pessoa que intermedie, tenda a reduz algun
 problemas comuns que agravam desnecessariamente discussões de relacionamentos
 típicas.
 
-<!--
-Esta hipótese assume que é possível direcionar uma **Discussão de Relacionamento
-("DR")** de forma mais consturtiva seguindo uma série de instruções que, mesmo de
-forma complexa demais para explicar em uma situação de raiva ou desânimo,
-se seguidas, tenderão a tornar a discussão mais clara, menos impulsiva e com
-menos efeitos colaterais.
-
-O nome da hipótese de terapia de casal é **Tabuleiro da Discussão de
-Relacionamento - TDR**. 
-
--->
-
 ## Exemplo hipotético
 _O exemplo de trocas de mensagens abaixo é uma idealização do que idealmente
 deveria-se alcançar ao ter um tabuleiro real que atenda as expectativas da
@@ -67,6 +55,45 @@ TTDR._
 > **Você**: 😍<br>
 > _**Mozão**: Tá, vou demorar mais me arrumando aqui antes de ir pra sua casa hoje... pra dar tempo de pensar no que anda fazendo 💅_<br>
 
+
+## Regras
+
+- Para iniciar a TTDR, antes da etapa do tabuleiro, ambas as partes terão que
+  estar preparadas para o que poderia acontecer DEPOIS da discussão, e isto deve
+  estar bem claro para os dois lados
+    - Obrigatoriamente ambas as partes devem estar limpas e bem vestidas, e a
+      a outra parte deve saber previamente quando começou a se arrumar para a
+      TTDR, para fazer o mesmo.
+- Caso o casal durma na mesma cama e haja real possibilidade da discussão
+  influenciar o dia a dia da relação, isso deverá ser mutuamente acordado
+  ANTES de iniciar a etapa do tabuleiro; ambos devem assumir responsabilidade
+  e ter ideia do resultado esperado
+    - Pode se acordar em dormir na mesma cama, porém invertidos (cabeças com pés)
+    - Se alguem tiver que dormir no sofá, o sofá deve ser preparado
+    - Se for para ir a outra casa (pai, parente, etc) deve-se preparar a mala
+      da pessoa antes da discussão; o processo de preparo é necessário para
+      que ambos entendam que isso é uma possibildiade
+- É recomendável que, de forma isolada ou em conjunto, nas horas anteriores
+  a etapa do tabuleiro, ambos do casal se afastem de atividades estressantes
+  e que tudo tenda a gerar estado emocional que tenda a relaxar
+    - Pode-se oferecer chás calmantes; evitar cafeinados
+    - É fortemente recomendável chocolate com boa quantidade de cacau
+    - Ouvir juntos ou de forma isolada musica mais calmante ajuda reduzir
+      estresse, em especial para quem veio do trabalho
+- É aceitável tomar remédios para reduzir ansiedade, porém é essencial que
+  todos estejam conscientes
+- Não é aconselhável, mas é tolerável **pequena dose** de alcool caso uma das
+  partes se sinta melhor assim
+- É tolerável, para pessoas que tem vício prévio, uso de drogas ilícias durante
+  a TTDR desde que em quantidade não suficiente para afetar a compreensão
+  da discussão
+    - **Não é aceitável uso de drogas que aumentem impulsividade/agressividade**
+      caso o parceiro queira isso porque se sente indefeso, deve-se usar
+      estratégias para acalmar, desde fazer chás relaxantes e até massagem e
+      carinho
+    - **Não é aceitável nem mesmo alto uso de energéticos ou cafeína**
+- ... continuar com as regras ...
+
 ## Premissas (o que esta Hipótese de Rocha assume)
 
 **PREMISSA ZERO: Todo relacionamento tem problemas de comunicação, e o Tabuleiro
@@ -100,10 +127,6 @@ usará metáforas para isso.**
 7. O Tabulero da DR deve pressupor que ambas as pessoas podem ser abusadoras
   e abusados emocionais ao mesmo tempo. (isso pode levar muito tempo testando
   com casos reais para ver qual melhor alternativa)
-
-## Regras
-
-_TODO: colocar regras aqui (fititnt 2017-04-10 02:47 BRT)_
 
 ## Como é o Tabuleiro
 
