@@ -155,3 +155,4 @@ ainda que essa abordagem pareça instintivamente ideal para crianças, considere
 variações dela também para conversas com adultos tendo em mente que suas
 afirmações ou perguntas sempre tem impacto, mesmo em pessoa que mal lhe conhece
 ou que minimiza seus próprios feitos.
+13. [Tabuleiro da Discussão de Relacionamento](tabuleiro-da-dr.md)
