@@ -1,4 +1,11 @@
-# Tabuleiro da Discussão de Relacionamento - TDR
+# Hipótese da Terapia do Tabuleiro da Discussão de Relacionamento - TTDR
+A Terapia do Tabuleiro da Discussão de Relacionamento TTDR **é uma hipótese
+de terapia** de casal em que há interesse mútuo em melhorar o relacionamento
+através de discussão que, mesmo sem pessoa que intermedie, tenda a reduz alguns
+problemas comuns que agravam desnecessariamente discussões de relacionamentos
+típicas.
+
+<!--
 Esta hipótese assume que é possível direcionar uma **Discussão de Relacionamento
 ("DR")** de forma mais consturtiva seguindo uma série de instruções que, mesmo de
 forma complexa demais para explicar em uma situação de raiva ou desânimo,
@@ -6,7 +13,14 @@ se seguidas, tenderão a tornar a discussão mais clara, menos impulsiva e com
 menos efeitos colaterais.
 
 O nome da hipótese de terapia de casal é **Tabuleiro da Discussão de
-Relacionamento - TDR**.
+Relacionamento - TDR**. 
+
+-->
+
+## Exemplo hipotético
+_O exemplo de trocas de mensagens abaixo é uma idealização do que idealmente
+deveria-se alcançar ao ter um tabuleiro real que atenda as expectativas da
+TTDR._
 
 > **Conversa no WhatsApp**<br>
 > _**Mozão**: amor, temos que ter _aquela_ conversa, a DR_<br>
@@ -31,7 +45,7 @@ Relacionamento - TDR**.
 > **Você**: tem gente BDSM que quer apanhar mais, gente que ta em relação aberta e quer fechar pra monogâmica mas não sabe dizer por ter vergonha, o tabuleiro serve pra isso<br>
 > _**Mozão**: ah, mas pessoa gente mal resolvida não admitir que quer fechar relacionamento, nem deveria ter começado, gente idiota 🙄_<br>
 > _**Mozão**: e nossa, essas cartas são tudo desenho meio infantil, mas tem chicote, desenho de pessoa peidando, vaso deixado levantado, lixeira cheia..._<br>
-> **Você**: ESSA É A MORAL! O TDR é que nem professia de Nostradamus: desenhos que você junta e quer que a outra pessoa deduza o que é, e tem que adivinhar<br>
+> **Você**: ESSA É A MORAL! O TDR é que nem professia de Nostradamus: desenhos que você junta e quer que a outra pessoa deduza o que é, e tem que adivinhar 🕵<br>
 > **Você**: ai que tá, tem várias aplicações práticas de relacionamento que terminou por pessoa relcamando de ciume, mas a reclamação era algo simples como "você elogia mais outras pessoas do que eu", "você passa menos tempo comigo do que eu gostaria", etc. Pessoas tem vergonha de admitir coisas "bobas"<br>
 > _**Mozão**: Nossa, nos extras de impressão aqui tem guias rápidos pra iniciante de como fazer massagem 😳_<br>
 > _**Mozão**: Isso não parece pra discussão de relacionamento, parece pra me convencer a fazer sexo 😐_<br>
@@ -39,10 +53,19 @@ Relacionamento - TDR**.
 > **Você**: para cada as reclamações, chamadas Pontos de Melhoria, você terá que dar instruções claras e objetivas de como eu posso saber quando erro, e como posso melhorar. Se você não for clara, o ponto não vale.<br>
 > **Você**: o **TDR foi feito pra entender o que a outra pessoa quer dizer mesmo ela não sabendo dizer na cara dura** 😂😂😂<br>
 > _**Mozão**: Esse jogo...._<br>
-> **Você**: perdeu um ponto! Não pode chamar desse nome! TDR não é esse nome, é uma Terapia.<br>
+> **Você**: perdeu um ponto! Não pode chamar desse nome! Pode chamar de "terapia" mas não da palavra banida "jogo".<br>
 > _**Mozão**: Isso é um tabuleiro, parece jogo, tem cara de jogo, tem pontos, tem tudo 🙄_<br>
 > **Você**: Tá nas regras. Eu não fiz elas. Apenas diz que a felicidade é mais importante que pontos.<br>
-> **Você**: Também diz que se eu estiver me esforçando pra fazer as coisas que você apontar como ponto de melhoria, e você não reconhecer, EU POSSO CHAMAR A TDR TAMBEM! E, mesmo que você chame outra TDR, e reclamar de algo que já estou melhorando, o peso fica menor da relcamação.<br>
+> **Você**: Também diz que se eu estiver me esforçando pra fazer as coisas que você apontar como ponto de melhoria, e você não reconhecer, EU POSSO CHAMAR A TDR TAMBEM! E, mesmo que você chame outra TDR, e reclamar de algo que já estou melhorando, o peso fica menor da reclamação.<br>
+> _**Mozão**: Tá, mas dai o que impede de você chamar essa DR pra qualquer coisinha só pra ter atenção?_<br>
+> **Você**: perdeu um ponto! Não pode chamar reclamação do outro no diminutivo. Pode ajudar outra pessoa a mudar de ideia e querer algo que faça mais diferença, mas todo problema é importante.<br>
+> _**Mozão**: 😑_<br>
+> _**Mozão**: Sério, da forma como você tá dizendo vale a pena ficar discutindo sempre essa tal TDR_<br>
+> **Você**: verdade, e o guia diz que a forma de evitar tudo isso é cuidar no dia a dia pro outro parceiro não chamar a TDR.<br>
+> _**Mozão**: No guia diz que tem eu além de ter que escolher algum tipo de toque fisico, como massagem, terei que ouvir elogios que sejam verdadeirose ser reconhecida por ações recentes antes de começar essa tal de TDR... Fora outras coisas que posso escolher até mesmo na etapa de preparação... É legal receber isso, sabe..._<br>
+> **Você**: hummm, já sei que essas coisas simples... digo, IMPORTANTES, IMPORTANTES, porque dizer essa palavra ali faria eu perder ponto, são importantes pra você. Vou fazer elas também mais vezes na semana<br>
+> **Você**: 😍<br>
+> _**Mozão**: Tá, vou demorar mais me arrumando aqui antes de ir pra sua casa hoje... pra dar tempo de pensar no que anda fazendo 💅_<br>
 
 ## Premissas (o que esta Hipótese de Rocha assume)
 
@@ -80,8 +103,12 @@ usará metáforas para isso.**
 
 ## Regras
 
-_TODO: colocar regras aqui (fititnt 2017-04-10 02:47 BRT)
+_TODO: colocar regras aqui (fititnt 2017-04-10 02:47 BRT)_
 
 ## Como é o Tabuleiro
 
+_TODO: explicar (fititnt 2017-04-10 05:22 BRT)_
+
 # Considerações cognitivo-comportamentais levadas em consideração
+
+_TODO: explicar (fititnt 2017-04-10 05:22 BRT)_
