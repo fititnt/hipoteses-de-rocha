@@ -1,9 +1,34 @@
-# Tabuleiro da Discussão de Relacionamento
-Esta hipótese assume que é possível direcionar uma discussão de Relacionamento
-"DR" de forma mais consturtiva seguindo uma série de instruções que, mesmo de
+# Tabuleiro da Discussão de Relacionamento - TDR
+Esta hipótese assume que é possível direcionar uma **Discussão de Relacionamento
+("DR") de forma mais consturtiva seguindo uma série de instruções que, mesmo de
 forma complexa demais para explicar em uma situação de raiva ou desânimo,
 se seguidas, tenderão a tornar a discussão mais clara, menos impulsiva e com
 menos efeitos colaterais.
+
+> **Conversa no WhatsApp**<br>
+> **Mozão**: amor, temos que ter _aquela_ conversa, a DR<br>
+> **Você**: se é pra ser não quero DR... quero TDR!<br>
+> **Mozão**: _The DR_? A D.R.? Nossa, não, pera 😖<br>
+> **Você**: vai no site tal, baixa o pdf e imprime o tabuleiro e os extras<br>
+> **Você**: affe espero que tenha cueca limpa não rasgada... ah pego secador de cabelo<br>
+> **Mozão**: Como assim? Tu nunca fala dessas coisas 😦<br>
+> **Você**: no caminho pra cá você passa na farmácia e compra creme ou óleo de massagem?<br>
+> **Mozão**: 😱<br>
+> **Você**: eu devia ter comprado gilete mais nova, vai doer essa minha barba<br>
+> **Mozão**: Mas pra que óleo de massagem, eu nem peço mais pra ti<br>
+> **Você**: ta nas regras. Como você pediu, eu tenho que fazer para ganhar PONTOS DE DISCUSSÃO<br>
+> **Mozão**: eu quero uma discussão contigo, não quero sexo, não vem me agradar agora não<br>
+> **Você**: não pode sexo antes. Nem beijo. É coisa séria. Tem regras. Vou ir pro banho<br>
+> **Mozão**: ...nossa! tem cartas até pra "compara com ex", "bater fisicamente"<br>
+> **Mozão**: puta merda, essas cartas podem ser negativas ou positiva, como assim alguém quer apanhar?<br>
+> **Mozão**: ... carta de "ciume dos outros parceiros", puta merda, isso é de gente louca<br>
+> **Mozão**: ...ah, pelo menos tem carta de "escovar dentes", "me abraçar mais", "não flertar com pessoa tal"<br>
+> **_tempo depois, volta do chuveiro_**<br>
+> **Você**: cada carta pode ser "quero mais" ou "quero menos", você monta combos<br>
+> **Você**: tem gente BDSM que quer apanhar mais, gente que ta em relação aberta e quer fechar pra monogâmica mas não sabe dizer por ter vergonha, o tabuleiro serve pra isso<br>
+> **Mozão**: ah, mas pessoa gente mal resolvida não admitir que quer fechar relacionamento, nem deveria ter começado, gente idiota<br>
+> **Mozão**: e nossa, essas cartas são tudo desenho meio infantil, mas tem chicote, desenho de pessoa peidando, vaso deixado levantado, lixeira cheia...<br>
+> **Mozão**: ESSA É A MORAL! O TDR é que nem ....<br>
 
 ## Premissas (o que esta Hipótese de Rocha assume)
 
