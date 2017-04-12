@@ -156,3 +156,20 @@ variações dela também para conversas com adultos tendo em mente que suas
 afirmações ou perguntas sempre tem impacto, mesmo em pessoa que mal lhe conhece
 ou que minimiza seus próprios feitos.
 13. [Terapia do Tabuleiro da Discussão de Relacionamento - TTDR](tabuleiro-da-dr.md)
+14. Um **modo de melhorar qualidade de vida** com ótima relação de tempo de ensino
+com resultado final e com ótimo nível de retenção de habilidade é **dar
+conhecimento mínimo simplificado para todo indivíduo de como o cérebro humano
+funciona**, com exemplos práticos que tal indivíduo pode aprender, associar com
+algo de já ocorreu particularmente em sua vida e induzir a testar empiricamente
+em breve tal lógica de funcionamento; um boa abordagem é o ensino focado na
+relação entre sentimentos e neurotransmissores, com exemplos práticos de drogas
+lícitas e/ou inícitas usadas para reduzir problemas que afetam sentimentos
+ou que geram novas sensações e que, mesmo que em menor impacto imediato,
+sugerir exemplos de interações sociais da pessoa aprendiz com outras pessoas
+impactariam os mesmos transmissores; depois de tal aprendiz chegar a conclusões
+empíricas semelhantes, tende a ser muito mais proveitoso dar menos importância
+apenas para decorar tabelas ou leitura de manuais complexos e muito mais ênfase
+para lógicas de engenharia reversa, isto é, a pessoa ou por observação ou por
+aplicação ética procurar deduzir que comportamentos geram sensações e sentimentos,
+com a restrição de que ela não reaplique algo que pareça se machucar ou machucar
+os outros, mesmo que a sensação final pareça ser melhor;
