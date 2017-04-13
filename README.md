@@ -172,4 +172,15 @@ apenas para decorar tabelas ou leitura de manuais complexos e muito mais ênfase
 para lógicas de engenharia reversa, isto é, a pessoa ou por observação ou por
 aplicação ética procurar deduzir que comportamentos geram sensações e sentimentos,
 com a restrição de que ela não reaplique algo que pareça se machucar ou machucar
-os outros, mesmo que a sensação final pareça ser melhor;
+os outros, mesmo que a sensação final pareça ser melhor.
+15. **Ter uma lista de interações sociais simples**, opcionalmente com **alimentos
+baratos e facilmente obteníveis** sem significativas implicações de ordem médica
+ou de nutricionistas, e relacionar a comprovada, empiricamente observada ou,
+mesmo que cientificamente provada ser apenas ação por sugestão, por efeito
+placebo a interações com neurotransmissores é útil como base genérica para
+indivídios que usem tal lista de forma direta ou que se baseiem nela para criar
+abordagens complexas que melhore qualidade de vida; tal lista será melhor
+aproveitada ao permitir cópia e redistribuição com alteração, por padrão
+assumir que todas as interações/alimentos são meramente por observação empírica;
+critérios de remoção devem ser mais baseados em efeitos secundários não raros
+do que simplesmente ser visto como efeito placebo
