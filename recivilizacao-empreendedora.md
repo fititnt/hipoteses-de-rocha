@@ -12,7 +12,39 @@ bem como a redução de chance de reincidência de crimes mais graves ocorra.
 para desestimular ações incivilizadas, mas não as reprova: objetiva incentivar
 mudanças de comportamentos em vez do indivíduo simplesmente se afastar.
 
-## Exemplo prático extremo
+## Empreendedores com papel pedagógico
+Os empreendedores tem papel mais pedagógico do que ocorreria em uma empresa
+comum. Estes não necessariamente devem ter passado ligado a alguma contravenção,
+e tratarão com respeito e dignidade qualquer pessoa, que use seus serviços ou
+que, de forma pontual, seja colaboradora.
+
+Na HRE também pode também ser vista como um modo de facilitar e agilizar os
+chamados _bicos_, serviços temporários, de alguns empreendedores que poderão
+obter mão de obra que **vão poder escolher previamente, sabendo o histórico**.
+Tal empreendedor se preocuparia como o mínimo de etapa que poderiam ser feitas
+por outros empreendedores.
+
+## Exemplo prático de uma estratégia (reuso de empresas HRE)
+
+> Um **empreendedor da área de marketing** é contratado para divulgar panfletos
+> pela cidade com urgência. Ele usa uma plataforma para geral para contactar
+> outros empreendedores e simular online a estratégia de quais pessoas quer
+> aonde. Caso seja mais barato na simulação de um ou mais colaboradores o uso
+> de **vans da HRE** em vez de ônibus, ele irá contratar as vans HRE, que irão
+> transportar os colaboradores. A comida, se na simulação online for mais
+> custo-eficiênte, será também por outros **empreendedores HRE do setor de alimentos**
+> quer seja por algum restaurante ou bar próximo aos locais onde os
+> colaboradores finais irão atuar ou, se na simulação for mais eficiênte (e
+> em teoria houver disponibilidade na hora certa) usará outras vans. Como na
+> hora de montar a estratégia foi solicitado que todos os colaboradores finais
+> tivessem celular para acompanhar todo procedimento, todas as pessoas
+> envolvidas no processo poderão ver as respectivas partes pertinentes a si.
+> Um colaborador avisado no dia anteiror quando a van chegou não vai mais poder
+> ir? Outro com mesmo perfil é escolhido. Como a ação é na terça-feira, os
+> colaboradores finais terão o saldo disponível na sexta-feira, necessariamente
+> já com descontos de toda cadeia usada para aquela ação.
+
+## Exemplo prático de um empreendimento (Vans de Transporte)
 
 > **Problema:** Transporte publico para pessoas desempregadas sem nem idade
 > escolar é caro em Porto Alegre.
