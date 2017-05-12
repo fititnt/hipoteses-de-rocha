@@ -187,3 +187,25 @@ do que simplesmente ser visto como efeito placebo
 16. [Hipótese da Criatividade Industrial](https://github.com/fititnt/criatividade-industrial)
 17. [Hipótese da Recivilização Dramática](recivilizacao-dramatica.md)
 18. [Hipótese da Recivilização Empreendedora](recivilizacao-empreendedora.md)
+19. **Educar metacognição individual e o básico de relações em comunidade é
+um meio eficiente de tornar cada indivíduo mais feliz e potencialmente reparador
+a longo prazo na felicidade de comunidades**; a separação clássica entre "bom
+e mal" é simplista, pois o equivalente altruísta disto é uma guerra entre
+comunidades em busca de soluções imediatas ou que não contrariem a moral daquela
+comunidade na qual o indivíduo faz parte; se um membro pensa algo bom para
+comunidade maior, que apenas a longo prazo é bom para comunidade em que faz
+parte e a curto prazo implica em redução na percepção de vantagens, haverá
+guerra interna; tendo em vista todos esses fatores, é util ensinar abstratamente
+relações do indivíduo em comunidade, desde sua rede de amigos ou grupo que
+defende uma ideologia como trabalhadores de uma área de atuação, a até a
+comunidade-país ou comunidade-humanidade; tal ensino idealmente deveria ter
+mecanismos típicos de como uma pessoa causa influência, e, desta influência, o
+que a comunidade pode fazer para estimular e desestimular outras comunidades
+menores e que, preferencialmente, induzir pensamento de cooperação em detrimento
+de destruição de outros grupos, mesmo que a cognição do influenciador dê prazer
+em lutar por uma causa; esta hipótese envolve o objetivo de redirecionar energia
+agressiva de forma mais útil a comunidades maiores enquanto reduz estresse
+imediato ao não atingir metas esperadas, isto é, procurar dar um sentido de vida
+melhor aos indivíduos via consciência de quem são e como podem tornar o mundo
+menos estressante e mais feliz, mesmo que demore gerações.
+
