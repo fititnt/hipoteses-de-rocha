@@ -185,5 +185,5 @@ assumir que todas as interações/alimentos são meramente por observação emp�
 critérios de remoção devem ser mais baseados em efeitos secundários não raros
 do que simplesmente ser visto como efeito placebo
 16. [Hipótese da Criatividade Industrial](https://github.com/fititnt/criatividade-industrial)
-17. [Hipótese da Recivilização Dramática](recivilizacao.md)
-
+17. [Hipótese da Recivilização Dramática](recivilizacao-dramatica.md)
+18. [Hipótese da Recivilização Empreendedora](recivilizacao-empreendedora.md)
