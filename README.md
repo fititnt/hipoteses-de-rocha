@@ -209,3 +209,4 @@ imediato ao não atingir metas esperadas, isto é, procurar dar um sentido de vi
 melhor aos indivíduos via consciência de quem são e como podem tornar o mundo
 menos estressante e mais feliz, mesmo que demore gerações.
 20. [Meta-hipótese da Evolução de Comunidades por Ações Individuais](meta-hipotese.md)
+21. [Hipótese da Inteligência Artificial Fraca Íris](https://github.com/fititnt/iaf-iris)

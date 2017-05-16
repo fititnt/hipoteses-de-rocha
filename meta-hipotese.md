@@ -5,15 +5,26 @@ poderia criar hipóteses mais específicas voltadas para ações práticas
 individuais que levem a evolução de comunidades com menor esforço e maior
 retorno, já ciente dos riscos.
 
-> Veja [Metacriatividade em discussão](https://github.com/fititnt/metacriatividade-em-discussao).
->
-> Um exemplo problema que poderia gerar um ou mais HECAIs é a pergunta
-> **[Produtividade do Brasil é baixíssima. Como melhorar em 30 anos, otimizando,
-sem gastar mais, independente de governo vigente?](https://www.facebook.com/fititnt/posts/1465962096788600)**
 
 ## Meta-hipóteses
 
+_Nota: estas meta-hipóteses apontam para tendências significativas de melhor
+resultado, porém
+
+1. ...
+
 _TODO: continuar escrevendo (fititnt, 2017-05-14 03:35)_
+
+## Aplicações em andamento
+_Nota 1: veja também [Metacriatividade em discussão](https://github.com/fititnt/metacriatividade-em-discussao)_.
+
+_Nota 2: as referências abaixo são rascunhos e/ou abordagens que tendenriam
+a, mesmo em um bom cenário em que fazem sentido e há energia suficiente para
+serem testadas, demorar anos para ter resultados praticos_
+
+- [Hipótese da Criatividade Familiar](https://github.com/fititnt/criatividade-familiar)
+- [Hipótese da Criatividade Industrial](https://github.com/fititnt/criatividade-industrial)
+- [Hipótese da Recivilização Empreendedora](https://github.com/fititnt/hipoteses-de-rocha/blob/master/recivilizacao-empreendedora.md)
 
 ## Fundamentação
 
