@@ -210,3 +210,4 @@ melhor aos indivíduos via consciência de quem são e como podem tornar o mundo
 menos estressante e mais feliz, mesmo que demore gerações.
 20. [Meta-hipótese da Evolução de Comunidades por Ações Individuais](meta-hipotese.md)
 21. [Hipótese da Inteligência Artificial Fraca Íris](https://github.com/fititnt/iaf-iris)
+22. [Teoria da Assistência Cognitiva Pessoal Reprogramável](acpr.md)
