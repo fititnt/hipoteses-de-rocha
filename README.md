@@ -211,3 +211,30 @@ menos estressante e mais feliz, mesmo que demore gerações.
 20. [Meta-hipótese da Evolução de Comunidades por Ações Individuais](meta-hipotese.md)
 21. [Hipótese da Inteligência Artificial Fraca Íris](https://github.com/fititnt/iaf-iris)
 22. [Teoria da Assistência Cognitiva Pessoal Reprogramável](acpr.md)
+23. **Hipótese da Assistência Cognitiva de Redução de Danos focada em Questões
+de Gênero (AC-RD-QG)**: existe hipotético conjunto de soluções que se adequa
+a rotina do usuário e que, por solicitação deste ou em reação deste o avisa
+que está fugindo dos limites recomendados, explicando de forma simples e que
+estatisticamente falando funciona com usuários do mesmo perfil, reduz a chance
+a chance de comportamentos anti-sociais; esta AC-RD-QG deve ter sido aceita
+de livre e expontânea vontade, ainda que levemente induzida por familiar;
+Esta AC-RD-QG, principalmente para usuários com menor nível de civilidade
+previo e maior nível de impulsividade, tende a ser mais eficiênte eventualmente
+usando questões morais não ideais mas que seriam suficientes para reduzir a
+chance da interação do humano com terceiro de forma que ele _pareça_ agressivo,
+mesmo que ele pense algo agressivo mas seja induzido a trocar o foco para outra
+direção; com o passar dos meses se o usuário for cognitivamente capaz de
+compreender, o nível de civilidade da AC-RD-QG poderá ser elevado gradualmente;
+idealmente as intarções do usuário com sua AC-RD-QG devem ser privadas,
+opcionalmente compartilhadas com especialista de saúde mental; deve idealmente
+ter _dicionários_ que atendam desde pessoa que, por impulsividade, é antissocial
+em discussões online e não percebe (que não tenderá a ser alguém que vá para
+cadeia, porém é um comportamento ruim para si e para os demais) a até mesmo
+pessoas que cometeram crimes hediondos, que antes dessa _AC-RD-QG_ seriam vistos
+como "incuráveis", e que o objetivo dessa assistência cognitiva pode ser apenas
+uma alternativa de auxílio não medicamentoso para controle de impulso; esta
+Hipótese da AC-RD-QG assume que tal assistência poderia estatisticamente reduzir
+tempo necessário nas prisões para infratores relacionados a questão de gênero,
+bem como ser uma ferramenta adicional para justiça de foros familiares e
+assistentes sociais reduzirem chance de escalada de agressividade em pessoas
+parceiras afetivas.
