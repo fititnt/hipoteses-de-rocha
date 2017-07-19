@@ -238,3 +238,13 @@ tempo necessário nas prisões para infratores relacionados a questão de gêner
 bem como ser uma ferramenta adicional para justiça de foros familiares e
 assistentes sociais reduzirem chance de escalada de agressividade em pessoas
 parceiras afetivas.
+24. **Ética na Automação e Inteligência Artificial baseadas em Teoria dos Jogos**:
+é util criação de um ou mais grupos, idealmente independentes de financiamento
+(que poderiam causar conflitos de interesse) e estruturados de forma que sejam
+sustentáveis por períodos igual ou superiores a décadas, voltados ao estudo
+e incentivo a aplicação de [teoria dos jogos](https://pt.wikipedia.org/wiki/Teoria_dos_jogos)
+como estrutura central na _ética na automação ou uso de inteligência artificial_,
+mesmo que _pouco avançada_; tais grupos devem tender a induzir os participantes
+ao uso de máquinas como parceiras e não meras substitutas de humanos sem algum
+tipo de contrapartida proporcional ao impacto na redução de empregos naquele
+país; (... continuar descrição ...)
