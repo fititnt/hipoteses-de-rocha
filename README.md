@@ -265,3 +265,13 @@ de pensamento, tenham também uma capacidade de armazenar e acessar estas de
 modo mais confiável que um cérebro orgânico, o que implica na necessidade de
 integração mais eficiente com máquinas, o que leva a _Teoria da Assistência
 Cognitiva Pessoal Reprogramável (Hipótese 22)_.
+26. **A Hipótese 25 será ainda mais eficiente se a linguagem de (re-)programação
+for mais individualizada**, de modo que os humanos não precisem aprender uma
+nova linguagem para ensinar ou aprender de outro humano; essa conversão na
+forma de interação e troca de conhecimentos seria feita de forma eficiente se
+todos os humanos tivessem sua própria ACPR (Assistência Cognitiva Pessoal
+Reprogramável) -- ou que, ao menos, o receptor tenha uma ACPR poderosa o
+suficiente para entender o outro humano -- para que não importa o que um lado
+da interação queira transferir de informação, haverá tradução de modo que a
+outra parte tenha hiperfoco e faça exclusivamente o que seu ACPR não conseguiria
+sozinho.
