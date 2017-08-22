@@ -248,3 +248,20 @@ mesmo que _pouco avançada_; tais grupos devem tender a induzir os participantes
 ao uso de máquinas como parceiras e não meras substitutas de humanos sem algum
 tipo de contrapartida proporcional ao impacto na redução de empregos naquele
 país; (... continuar descrição ...); **Criado grupo [Etica.AI](https://github.com/EticaAI)**
+25. **Criar linguagem de (re-)programação voltada para leigos é uma forma muito
+eficiente de criar sistemas muito avançados** se comparado a simples contratação
+de programadores de linguagens pré-existentes para tornar mesmos sistemas
+avançados; assim como ocorre com código aberto (_open source_) onde não apenas
+questões sociais (_i.e. vontade de compartilhar_) como questões técnológicas
+(_ferramentas e, claro, aprendizagem de como usá-las_) o uso de tais
+linguagens de (re-)programação precisam de um ecosistema de ferramentas de
+suporte voltadas para leigos, de modo que o que hoje é conhecido como código
+aberto passe por uma evolução semelhante; um nome que me vem a cabeça agora
+seria _processo de pensamento aberto_ ou _open thinking process_; o que no
+_código aberto_ é código fonte de programas, nessa abordagem seriam as
+estratégias, (ou o _próprio algorítimo_) de transformar informação; essa
+abordagem exigiria que humanos, além de ferramentas para criar essas estratégias
+de pensamento, tenham também uma capacidade de armazenar e acessar estas de
+modo mais confiável que um cérebro orgânico, o que implica na necessidade de
+integração mais eficiente com máquinas, o que leva a _Teoria da Assistência
+Cognitiva Pessoal Reprogramável (Hipótese 22)_.
