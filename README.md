@@ -247,4 +247,4 @@ como estrutura central na _ética na automação ou uso de inteligência artific
 mesmo que _pouco avançada_; tais grupos devem tender a induzir os participantes
 ao uso de máquinas como parceiras e não meras substitutas de humanos sem algum
 tipo de contrapartida proporcional ao impacto na redução de empregos naquele
-país; (... continuar descrição ...)
+país; (... continuar descrição ...); **Criado grupo [Etica.AI](https://github.com/EticaAI)**
