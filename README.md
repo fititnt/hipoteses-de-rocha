@@ -300,3 +300,24 @@ e necessário para humanos com problemas em um ou mais dos 5 sentidos ou que
 não conseguem movimentar partes do corpo, porém para troca de conhecimentos
 entre humanos a Hipótese 26 me parece mais praticável, segura, e até mesmo
 mais extensível;
+28. **Hipótese da superioridade da clusterização de criatividade, versão 1 --**
+Concordo que o próximo grande passo em inteligência artificial que irá
+criar uma _inteligência artificial forte_ envolverá grande poder computacional
+baseado em aprendizagem de máquina e obtido por força bruta e grande quantidade
+de dados, porém essa abordagem ainda será inferior ao **conceito clusterizar
+troca de conhecimento criativo humano com auxílio de multiplas _inteligências
+artificiais fracas_, quer sejam de livre acesso ao publico ou criadas para
+grupos de trabalho e, necessariamente, alguma forma de  ACPR (_Assistência
+Cognitiva Pessoal Reprogramável, Hipótese 22)_ exclusiva do indivíduo**; me
+parece natural que a primeira abordagem atinja antes a primeira I.A. forte
+simplesmente porque é mais simples esperar hardware ficar barato e acumular
+grande quantidade de dados para usar aprendizagem de máquina e que, não apenas
+pela obvia maior complexidade de lidar com educadores humanos para fazer-lhes
+desenvolver novas formas de ensinar e aprender usando I.A. fracas ou possível
+medo de impacto na perda de empregos sem a existência de renda básica
+incondicinal, **mas também por questão de ego de quem _descobre primeiro_,
+dar-se-á menos interesse de pesquisadores de I.A. em preparar professores de
+hoje a se tornarem eles mesmos pontos de uma rede de pesquisa avançada**; alguém
+poderia me contra-argumentar que seria trapaça comparar uma I.A. forte contra um
+grupo que além de I.A. teria também humanos, mas discordo: o segundo time irá
+ganhar mesmo que os humanos deixem suas ACPRs respondendo de forma autônoma.
