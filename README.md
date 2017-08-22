@@ -275,3 +275,28 @@ suficiente para entender o outro humano -- para que não importa o que um lado
 da interação queira transferir de informação, haverá tradução de modo que a
 outra parte tenha hiperfoco e faça exclusivamente o que seu ACPR não conseguiria
 sozinho.
+27. **Será muito mais difícil criar estratégias de tradução entre _processos de
+pensamentos_** -- que, suponho, tendem a ser quase únicas -- **entre humanos do
+que _meramente_ fazer conecção direta entre dois ou mais cérebros** de forma
+intrusiva, como conectando algum hardware dentro do crânio humano como ouço
+li, sem me aprofundar, em abordagens em minha época (ex.: neurolink de Elon
+Musk); então pergunto: **de que adianta ter uma quantidade potencial absurda
+de bits extraídos de um cérebro se, quem ler esses dados, não entendê-los?**
+Um tipo de acesso direto desse seria _muito bruto_ ao ponto de, não apenas
+exigir que ambos os humanos tenham processos de pensamentos parecidos, como
+possivelmente até mesmo repetir os dados do mesmo humano em épocas diferentes
+de sua vida (ou mesmo em estados emocionais alterados!) a interpretação mudaria.
+Concordo que seria possível usar como interface de comunicação formas de entrada
+e saída de dados natural aos humanos, a exemplo de um humano lembrar de uma
+imagem ou de um vídeo e e vez de descrever por voz, exibir a imagem _direto_
+no cérebro da outra pessoa; porém se a compreensão pelo outro lado depende de
+intefaces que ela iria entender: aqui os clássicos 5 sentidos humanos -- visão,
+audição, paladar, olfato e tato -- todos esses 5 sentidos sensoriais humanos
+podem ser transferidos para quem recebe a resposta sem a obrigação de fazer link
+intrusivo direto no cérebro dela, pois há décadas temos tecnologia que geram
+estímulos visuais e sonoros, como telas de cinema e aparelhos de rádio; esse
+tipo de link de entrada e saída de dados direto no cérebro certamente é útil
+e necessário para humanos com problemas em um ou mais dos 5 sentidos ou que
+não conseguem movimentar partes do corpo, porém para troca de conhecimentos
+entre humanos a Hipótese 26 me parece mais praticável, segura, e até mesmo
+mais extensível;
