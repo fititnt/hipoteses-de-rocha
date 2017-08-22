@@ -276,7 +276,7 @@ da interação queira transferir de informação, haverá tradução de modo que
 outra parte tenha hiperfoco e faça exclusivamente o que seu ACPR não conseguiria
 sozinho.
 27. **Será muito mais difícil criar estratégias de tradução entre _processos de
-pensamentos_** -- que, suponho, tendem a ser quase únicas -- **entre humanos do
+pensamentos_** -- que, suponho, tendem a ser quase únicas entre humanos -- **do
 que _meramente_ fazer conecção direta entre dois ou mais cérebros** de forma
 intrusiva, como conectando algum hardware dentro do crânio humano como ouço
 li, sem me aprofundar, em abordagens em minha época (ex.: neurolink de Elon
