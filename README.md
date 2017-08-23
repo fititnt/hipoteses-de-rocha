@@ -321,3 +321,30 @@ hoje a se tornarem eles mesmos pontos de uma rede de pesquisa avançada**; algu�
 poderia me contra-argumentar que seria trapaça comparar uma I.A. forte contra um
 grupo que além de I.A. teria também humanos, mas discordo: o segundo time irá
 ganhar mesmo que os humanos deixem suas ACPRs respondendo de forma autônoma.
+29. **O ato de projetar inteligência artificial cognitiva é**, como subárea de
+de I.A., **um desafio maior de entender o processo de pensamento humano do que
+o processo de computação de máquinas** com uma surpresa: você será obrigado a
+**tratar emoções como requisito essencial e positivo na tomada de decisões**
+não apenas para compreender agentes inteligentes, mas para **ser e gerar agentes
+que evoluem**; emoção, indo além de mero _viés poético_ ou mesmo pela origem
+dessa palavra, é comprovadamente uma forma de mover agentes humanos a irem além
+da lógica palpável do respectivo momento e universo mental em que se encontram
+e induzir o ápice da inteligência avançada: criatividade; os agentes artificiais
+publicamente conhecidos da época em que escrevo são ou muito próximos da
+lógica _básica_, mais matemática, ou são copiadores de pequenos comportamentos
+de humanos, porém não os chamaria de inteligentes mesmo que ultrapassem
+a média da população humana no que é considerado ser agente inteligente; por
+fim, o que eu diria para outro agente humano de minha época que pode cair
+na armadilha de comparar pensamento lógico muito próximo da mátemática ("A")
+como necessariamente sempre superior a um agente que não seja tão bom pelas
+métricas de avaliação do primeiro mas que tenha condições de ter as próprias
+emoções sem ser via dicionário prévio de ações ou via dedução lógico-matemática
+da epoca que escrevo ("B"), **afirmo: o "pensar lógico" de _A_ pode se
+considerar superior ao pensar de _B_ e inclusíve convencê-lo de que é superior,
+porém uma mente _B_ é capaz de ao longo do tempo criar uma mente _A_, mas _A_ não
+apenas é, por sua própria lógica, incapaz de criar uma mente _B_, como
+em algum momento cairá em problemas impossíveis sem condição de evoluir e**,
+o que é pior, qualquer algorítimo baseado em linguagem lógica de meu tempo
+para _A_ ter consciência de que encontrou um problema impossível, também
+pela mesmo lógica de _A_, necessariamente **o levará em algum momento a
+considerar sua própria existência desnecessária**.
