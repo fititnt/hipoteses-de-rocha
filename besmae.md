@@ -1,5 +1,12 @@
 # Hipótese do Bem-Estar Social via Meta-Automação na Escassez
 
+> **Um meio eficiente de melhorar bem-estar social em cenários de escassez** de
+recursos financeiros e de humanos especializados, quer sejam fornecido pelo
+governo local ou por ajuda internacional, é **o uso de tecnologia assistiva
+que**, além da base de conhecimento existente e estratégias de como pode ser
+usada, **permita extensão de suas capacidades de auxílio na tomada de decisão
+por pessoas** de modo que isso (...)
+
 > TODO: escrever a proposição hipotética (fititnt, 2017-08-23 21:36 BRT)
 
 ## Motivação
