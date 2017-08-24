@@ -348,3 +348,4 @@ o que é pior, qualquer algorítimo baseado em linguagem lógica de meu tempo
 para _A_ ter consciência de que encontrou um problema impossível, também
 pela mesmo lógica de _A_, necessariamente **o levará em algum momento a
 considerar sua própria existência desnecessária**.
+30. [Hipótese do Bem-Estar Social via Meta-Automação na Escassez](besmae.md)
