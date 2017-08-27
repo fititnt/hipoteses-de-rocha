@@ -356,3 +356,20 @@ mas também filosófico; e o impacto adicional disso vai além do pesquisador,
 mas de todos que o cercam, mesmo que tais anotações sejam um apanhado de outras
 teorias -- afinal, todo conhecimento humano é, necessariamente, consequência
 do aprendizado das gerações anteriores.
+32. **Hipótese da Inteligência Artificial Fraca de Apoio Estatístico (IAFAE)**:
+é muito útil a agentes humanos, e imprescindível a agentes puramente não
+humanos, que em vez de um confronto direto de opiniões com agentes puramente
+humanos e com capacidades cognitivas sem sério prejuízo **use-se uma estratégia
+cooperativa, sem abuso de fraquezas conhecidas ou desconhecidas** onde, mesmo
+que não se concorde com a outra parte, **forneça-se tempo razoável e
+tecnologia** de uma hipotética inteligência artificial fraca **que sirva de
+apoio a interpretação estatística (uma IAFAE)**; tal IAFAE deve ser dentro das
+limitações de seus desenvolvedores _idealmente amoral_: ser restrita a ajuda na
+interpretação e análise estatística e explicitamente deixar claro limitações
+não apenas matemáticas e na coleta de dados (como caso de que relação entre
+duas variáveis estar ocultado pela relação de uma terceira variável), ou seja
+o lado lógico, mas também limitações nas interepretações por cognições
+avançadas, isto é, uma simplificação de erros gerados por viéses cognitivos;
+caso as interpretações geradas por essa IAFAE quanto a interpretações de viéses
+cognitivos deixe de ser simples, idealmente deve-se construir uma nova IAF
+exclusiva, e de uso opcional, em adição a esta IAFAE.
