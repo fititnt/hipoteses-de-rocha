@@ -349,3 +349,10 @@ para _A_ ter consciência de que encontrou um problema impossível, também
 pela mesmo lógica de _A_, necessariamente **o levará em algum momento a
 considerar sua própria existência desnecessária**.
 30. [Hipótese do Bem-Estar Social via Meta-Automação na Escassez](besmae.md)
+31. **É útil que pesquisadores de inteligência artificial tenham anotações
+pessoais do que conceitualmente consideram uma inteligência artificial
+avançada**; tal utilidade vai além do ponto de vista meramente tecnológico,
+mas também filosófico; e o impacto adicional disso vai além do pesquisador,
+mas de todos que o cercam, mesmo que tais anotações sejam um apanhado de outras
+teorias -- afinal, todo conhecimento humano é, necessariamente, consequência
+do aprendizado das gerações anteriores.
