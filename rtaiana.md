@@ -22,6 +22,23 @@ governamentais ou privadas, que rebribuam financeiramente todo o processo.
 
 ## Motivação
 
-_Inspirações iniciais:_
+<!--
+  Citar subprojeto do Criatividade Familiar que hoje me inspirou que não
+  bastaria criar filtro de busca de facebook para ver padrões que afetam
+  criação de filhos por pais despreparados e colocar frase padrão com
+  bot automático; seria necessário, além de filtros de busca, ter humanos
+  para ver falsos-positivos e, depois dessa triagem, passar para outros
+  humanos mais especialistas em dar todo apoio para que os jovens pais
+  sejam mais eficientes (fititnt, 2017-08-29 23:29 BRT)
+-->
 
-- Fato: ...
+- Hipotese 17 / [Hipótese da Recivilização Dramática](recivilizacao-dramatica.md)
+- Hipótese 18 / [Hipótese da Recivilização Empreendedora](recivilizacao-empreendedora.md)
+- Hipótese 22 / [Teoria da Assistência Cognitiva Pessoal Reprogramável](acpr.md):
+essa hipótese seria mais fácil de ser atingida se houvesse, além de I.A. certas
+tarefas que podem ser revisadas por outros humanos menos especializados
+- Hipótese 26 / Grupo [Etica.AI](https://github.com/EticaAI): necessidade de
+pessoas para fazer triagem de dados para permitir emprededorismo social de
+baixo custo. (_Em menos de 20 anos isso pode virar projeto, conforme redução
+de custos para administrar pessoas e evolução de técnologia que Rocha tiver
+acesso_).
