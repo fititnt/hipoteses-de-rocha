@@ -373,3 +373,22 @@ avançadas, isto é, uma simplificação de erros gerados por viéses cognitivos
 caso as interpretações geradas por essa IAFAE quanto a interpretações de viéses
 cognitivos deixe de ser simples, idealmente deve-se construir uma nova IAF
 exclusiva, e de uso opcional, em adição a esta IAFAE.
+33. **Hipótese da Recivilização Via Trabalho Assistencial Para Inteligências
+Artificiais Não-Autônomas (RTAIA)**: assumindo-se carater não apenas punitivo,
+mas re-civilizatório de indivíduos cognitivamente capazes que tem sua liberdade
+restrita em sociedade, bem como a necessidade de apoio futuro onde ainda será
+necessário pensamento humano para ajudar maquínas inteligentes -- que não
+necessariamente implicam em deslocamento físico -- para ajudar outros humanos
+em situação de imediata ou de estatisticamente provável risco futuro -- seja
+para proteção do indivídio hipoteticamente em risco, ou da sociedade -- **é
+muito útil criar estratégia e ferramentas onde inteligência artificial
+não completamente autônoma se encarregue de distribuir tarefas** -- em especial
+tarefas de tomadas de decisão -- **onde o indivíduo** não apenas trabalhe, mas
+dentro do possível **realize trabalho assiencial de tomada de decisão com
+impacto em outras pessoas em situação de vunerabilidade semelhante ou mais
+grave do que as que se consideram**, e que tal logística também se encarrege
+em decidir re-validação pelos pares (outros indivíduos a serem re-civilizados)
+e, quando necessário e não existir rotina de inteligência artificial autônoma,
+também distribuia aprovação do resultado final para humanos especialistas ou
+empresas, governamentais ou privadas, que rebribuam financeiramente todo o
+processo.
