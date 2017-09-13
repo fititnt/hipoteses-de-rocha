@@ -374,3 +374,32 @@ caso as interpretações geradas por essa IAFAE quanto a interpretações de vi�
 cognitivos deixe de ser simples, idealmente deve-se construir uma nova IAF
 exclusiva, e de uso opcional, em adição a esta IAFAE.
 33. [Hipótese da Re-civilização via Trabalho Assistencial para Inteligências Artificiais Não-Autônomas (RTAIANA)](rtaiana.md)
+34. **Estimular criação de autômatos por crianças tão cedo quanto puderem operar
+tesoura sem ponta, cola e papel é tão ou mais criativo a longo prazo, e
+certamente mais barato, que apenas o uso de blocos de montar pré-prontos ou
+jogos e simulações eletrônicas**; isso vai muito além do ambiente ideal para
+formar futuros roboticistas, pois ao crescer a pessoa jovem começará a perceber
+que além da criatividade extrema de criar com material mais bruto ou o que
+por outros seria considerado _lixo_, também aprendeu uma forte ética de visão
+de mundo; tão logo comece a perceber que está muito mais evoluída em seu início
+de fase adulta que os cuidadores que admirava, lhe será instintivo a força de
+vontade e autoconhecimento frente a frustrações, situação ideal para projetos
+que dependam de emprededorismo e capacidade de ensinar/aprender eficientemente
+aplicados a cenários incertos e que até mesmo os recursos necessários tenham
+que ser extraídos de fontes ambundantes e ao mesmo tempo brutas demais; seria
+antiético incentivar desde cedo uma criança a ser cientísta, mesmo sabendo que
+muitas não vão sê-lo -- no sentido conhecido hoje -- profissionalmente? eu diria
+que a resposta para essa pergunta depende da resposta de outra: até que ponto
+uma pessoa jovem empreendedora que inova não é tão ou mais cientista que uma
+outra paga para ser teórica em uma sala fechada? do ponto de vista filosófico,
+um cientísta profissional teórico em sua sala fechada não é muito diferente
+de um jovem criado com recursos suficientes pra ter blocos de montar prontos
+com uma camera para filmar e publicar o que descobriu e que dedica tempo demais
+para que a foto fique perfeita para não receber críticas, e que quando algo
+dá errado, irá reclamar que não tem blocos ou câmera boa o suficiente, vendo na
+frustração um ato anti-criativo; já crianças estimuladas desde cedo a criar sem
+recursos prontos para uso iriam ver tais situações como _pontos de melhoria_,
+de modo a trabalhar para funcionar mesmo em cenário não ideal; é por isso que
+possivelmente crianças criadas _para serem cientístas_ sigam outros rumos não
+por incapacidade, mas sim por considerarem que o mundo precisa mais delas em
+outras áreas onde o desafio é maior para os outros do que para ela mesma.
