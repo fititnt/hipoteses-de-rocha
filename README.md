@@ -403,3 +403,33 @@ de modo a trabalhar para funcionar mesmo em cenário não ideal; é por isso que
 possivelmente crianças criadas _para serem cientístas_ sigam outros rumos não
 por incapacidade, mas sim por considerarem que o mundo precisa mais delas em
 outras áreas onde o desafio é maior para os outros do que para ela mesma.
+35. **Ciência de dados pode eventualmente ser percebida pela maioria como
+o termo "Internet" é sinônimo de aplicativo de rede social nos dias atuais**;
+em vez de querer ensinar o que seria _pensamento correto (do ponto de vista
+acadêmico)_ eu **sou favorável a abordagem de criar soluções em que pouco importa
+a crença pessoal de o que seria ciência de dados ou termos relacionados, mesmo
+que isso permita acreditarem que a própria área de conhecimento se restringe a
+interface com a qual cooperam**, com uma forte objeção: tais simplificações não
+sejam resultado de abuso intencional para obter maior cooperação humana não por
+simples complexidade do assunto (isto é, a pessoa ficar tão sobrecarregada
+que desiste) mas por resultar em algo que ela não queira (isto é, sabendo o
+resultado complexo, ela seria contrária); se alguém perguntar "por que quer
+que pessoas leigas em tais assuntos tenham que cooperar em algo avançado?" eu
+diria: existem trabalhos auxiliares em ciência de dados que poderiam ser
+quebrados em tarefas factíveis por pessoas mais leigas, e isso é um ganho-ganho
+onde uma principal trava será questões de ética pessoal dos cientístas
+coordenadores, que é complexa demais para ser automatizável, enquanto interfaces
+voltadas a obter cooperação desde aposentados a até mesmo presidiários é
+factível; esta abordagem pode parecer absurda nos dias em que escrevo, mas
+assumindo a hipótese provável que automação a nível mundial poderá causar
+perda de empregos e pressões em governos para ajudar cada vez menos aqueles que
+cometeram algum erro contra sociedade (como os presidiários) ou que pode ser
+visto como quem ainda mantem uma renda onde outros nem isso tem (aposentados)
+estratégias onde até mesmo esses grupos poderiam ajudar de forma barata ou
+_para o bem do povo (sem custos)_ pesquisadores ou empreendedores focados
+em causar impacto social positivo sem depender de estrutura governamental
+é algo que será um ganho-ganho visível em uma sociedade onde o custos de
+computadores se tornam poucos significativos enquanto cooperação vinda através
+de interfaces simplificadoras seria extremamente valiosa quando nas mãos de
+quem precisaria desse poder todo auxiliar de julgamento para resolver problemas
+que não terão recursos financeiros tradicionais.
