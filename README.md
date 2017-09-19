@@ -433,3 +433,34 @@ computadores se tornam poucos significativos enquanto cooperação vinda atravé
 de interfaces simplificadoras seria extremamente valiosa quando nas mãos de
 quem precisaria desse poder todo auxiliar de julgamento para resolver problemas
 que não terão recursos financeiros tradicionais.
+36. **Um uso ético de automação é construção de interfaces mais simples via
+assistente inteligente para serviços do Estado cuja interface ou multiplas
+interfaces originais sejam muito mais complexas e/ou a pessoa cidadã estaria
+desestimulada a fazer por questões de conectividade limitada**; tal assistente
+pode ser texto ou mesmo voz, porém idealmente não devem exigir instalação
+adicional programas no dispositivo da cidadã, de modo que a comunicação seja
+feita através de plataformas pré-existentes até a central do agente inteligente,
+que então se encarrega de acessar, de forma anônima ou autenticada em nome do
+cidadão, o respectivo serviço do Estado; o agente inteligente pode ser
+simplesmente um bot de conhecimento (do inglês _knowledge bot_) que ajuda com
+orientações de como a pessoa cidadã acessa ela mesmo o serviço do Estado, ou,
+quando pertinente e aplicável, faz as perguntas, recebe arquivos e outras
+informações disponíveis no dispositivo da pessoa (como localização) para então
+agir em nome dessa pessoa diretamente com a forma desejada pelo Estado, quer
+seja, apenas para citar exemplos, por envio em formulários em um website,
+chamada de voz ou mesmo envio de e-mail organizado de forma que sabe-se que
+será utilizado; mais do que apenas capacidade tecnológica de desenvolver tal
+agente inteligente, **faz sentido que grupo interessado se alinhe a pelo menos
+alguma organização não governamental ou outro grupo que historicamente seja
+publicamente conhecido por defender o tema abordado nessa automação**, e tal
+cooperação faz sentido não apenas para ter ajuda para definir as formas de
+interação do assistente inteligente, como também dar respaldo e credibilidade,
+possivelmente com reuso de telefones ou contas com algum selo de autenticidade
+na respetiva plataforma usada, de modo que tal automação ética, desenvolvida
+para o bem social e sem contrapartida financeira do Estado, **possa mais tarde
+ser absorvida como política publica de melhor atendimento**; deve-se, por
+padrão, zelar pela privacidade do usuário, ao ponto de considerar não guardar
+dados sensíveis do usuário ao final da interação e, em especial fora de período
+de testes, dar atenção a forma como tal assistente é divulgado de modo que a
+própria divulgação não apenas dê meios de checar ser de boa fé, como eduque
+usuários a não confiar possíveis impostores.
