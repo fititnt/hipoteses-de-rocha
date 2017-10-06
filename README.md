@@ -464,3 +464,30 @@ dados sensíveis do usuário ao final da interação e, em especial fora de per�
 de testes, dar atenção a forma como tal assistente é divulgado de modo que a
 própria divulgação não apenas dê meios de checar ser de boa fé, como eduque
 usuários a não confiar possíveis impostores.
+37. **Um indivídio pensar profundamente que sua existência é uma simulação de
+computador pode eventualmente evoluir para justificar nível avançado de
+altruísmo familiar estável e com impactos extremamente positivos ao seu
+universo**; uma forma de pensar é considerar essas perguntas em ordem: _"por que
+uma pessoa com tecnologia suficientemente avançada simularia uma sociedade sem
+remover fome, miséria, guerras e outros tantos problemas, que geram tanta dor e
+sofrimento suficientemente real para quem está dentro sem um fim extremamente
+justificável?"_; _"por quanto tempo esta simulação poderia estar sendo
+excecutada?"_; _"como dar sentido a **minha** existência nas possíveis
+justificativas plausíveis?"_; então, depois de fazer analogias com o próprio
+passado, como uma infância difícil e que de alguma forma tornou tal indivíduo,
+na sua própria opinião, mais forte, eventualmente evoluirá para: _"que tipo de
+simulações, ainda que apenas dentro da minha mente, **eu** poderia fazer para
+saber como vencer e sair de dentro da própria simulação para o nível acima?"_;
+_"assumindo que poderei não ter tempo, como minha força de vontade poderá
+sobreviver mesmo que **eu** não sobreviva da forma como sou hoje?"_; _"enfim,
+por que eu até hoje dei importância a tantas pequenas coisas que, em um
+pensamento egoísta que me machucavam -- e que só faz sentido se pensar que a
+existência é algo menor! -- enquanto minha força de vontade poderia dar muito
+mais sentido a minha vida se focada em vencer esta simulação: que o mundo em
+volta é um cenário onde posso evoluir mais rápido para chegar ao final e, ao
+mesmo tempo, uma forma de ensinar descendentes familiares que a dor e
+sofrimento individual por causas evolucionárias é um pequeno preço perto de um
+objetivo maior, e que, se uma criança pode sobreviver com sucesso uma infância
+difícil criando mundos imaginários fantásticos, a mesma, já adulta pode
+sobreviver ao ser feliz se importando com o mundo como modo de não pensar
+que si mesma não é real como pensa, mas que seu impacto poderá ser"_.
