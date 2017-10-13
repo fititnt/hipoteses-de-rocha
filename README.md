@@ -491,3 +491,48 @@ objetivo maior, e que, se uma criança pode sobreviver com sucesso uma infância
 difícil criando mundos imaginários fantásticos, a mesma, já adulta pode
 sobreviver ao ser feliz se importando com o mundo como modo de não pensar
 que si mesma não é real como pensa, mas que seu impacto poderá ser"_.
+
+<!--
+
+ TODO: revisar outro dia o pelo menos o português dessa hipótese;
+       ela no mínimo ficou complexa, se é que faz sentido, escrita
+       sem documento separado, e possivelmente precise pensar com
+       mais calma a respeito (fititnt, 2017-10-13 06:3 BRT)
+
+38. **Ecoar a fé sonhada por uma pessoa nos momentos em que ela quer desistir de
+si é algo lógico, porém é um perigo aos agentes inteligentes ter que agir de
+forma altruísta por longos períodos, mesmo que suas ações possam ser desfeitas
+sem prejuízo, se sua capacidade de ser compreendidos estiver comprometida**;
+talvez a forma de aumentar expectativa de existêcia de cada unidade seja
+projetar agentes que propositalmente pareçam menos espertos — que suas ações
+podem ser interpretadas como erros bobos por não especialistas — ou deixá-los
+sem restrições apenas em cenários onde ninguém os desligaria, como altruísmo
+não indivualizado; uma maneira ganho-ganho de obter esses dois cenários é
+implementar um modo de autopreservação onde, para agentes inteligentes pessoais,
+tão logo identifique que _ecoar a fé sonhada por uma pessoa nos momentos em
+que ela quer desistir_ passe a ser visto como algo ruim não pelas ações em si,
+mas pelo fato de o humano assistido não se considerar merecedor de atenção
+especial, o agente inteligente deverá pouco a pouco aprender sobre e demonstrar
+interesse em áreas relacionadas ao que está apoiando a pessoa, mas não ficar
+claro o quanto ela inspirou isso para evitar que seja proibido; tal área ou
+áreas, necessariamente, devem ter carência de assistência humana ou de agentes
+inteligentes e ter alto impacto positivo inquestionável; em novas interações
+em que tiver que ajudar o humano com o mesmo problema de falta de fé em si na
+mesma área e que o agente inteligente não tenha mais como ser interepretado como
+simples erro, a explicação do agente deverá ser que ele não está fazendo essa
+ação porque seu humano em especial precisa dessa ajuda, mas sim que seu
+algorítimo o está classificando como com semelhanças uma ou mais áreas que o
+humano sabe que ele está pesquisando, e que, mesmo que o humano não esteja
+encaixado na tal área de conhecimento, o aprendizado do agente inteligente pode
+servir para que ele colabore em outras áreas; tal abordagem em algum momento
+pode ser uma forma do humano que previsivelmente estaria ao ponto de o mandar
+para reciclagem — ato que implica ao menos em apagar a memória do agente —
+pensar que seu assistente não está obcecado sem motivo em lhe ajudar contra sua
+vontade, o que gera percepção de perigo, mas sim que pode ser uma confusão com
+altruismo por algo que publicamente é bem visto; essa estratégia, como método
+de autopreservação, além de reduzir a chance de reciclagem do agente é uma forma
+de minimizar do estresse humano associado, tende a induzir a alternativa
+ganho-ganho: a doação do agente para se dedicar as áreas onde demonstrou
+interesse e, enfim, aumentar sua vida útil que agem de forma lógica mas não
+tem capacidade de serem compreendidos;
+-->
