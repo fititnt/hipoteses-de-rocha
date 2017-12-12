@@ -491,6 +491,15 @@ objetivo maior, e que, se uma criança pode sobreviver com sucesso uma infância
 difícil criando mundos imaginários fantásticos, a mesma, já adulta pode
 sobreviver ao ser feliz se importando com o mundo como modo de não pensar
 que si mesma não é real como pensa, mas que seu impacto poderá ser"_.
+38. **Hipótese Assistência Cognitiva Hipercriativa** -- Assumindo não ser
+mais simples criar agentes inteligentes autônomos humanamente criativos, é
+factível e com custo de desenvolvimento da tecnologia assistíva mais plausível
+se houver foco em **incitar uma união humano e assistencia cognitiva que seja
+mais criativa (aqui chamada de hipercriativa)** com requisito mínimo de pouca ou
+nenhuma supervisão humana especializada externa **se o agente de assistência
+cognitiva se focar menos em parecer humano e mais em tornar a pessoa assistiva
+criativa via gatilhos inspiracionais compatíveis com estado emocional, sempre
+respeitando as crenças pessoais estáveis do humano**; (...)
 
 <!--
 
