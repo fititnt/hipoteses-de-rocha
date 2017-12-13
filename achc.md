@@ -1,4 +1,47 @@
 # Hipótese Assistência Cognitiva Hipercriativa
+_Assistência Cognitiva Hipercriativa_ é o nome dado a uma hipótese teórica
+de uma _inteligência artificial fraca_ que atue como _assistente pessoal_
+responsável por induzir criatividade em condições tipicamente não favoráveis
+para mentalidade e o estado emocional do respectivo humano.
+
+Esse nome é devido ao fato de que, mesmo sob ação de cenário estressante, o
+humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
+
+## Princípios
+
+1. Ser **hiper**criativa ao induzir criatividade em condições típicamente
+   não favoráveis para mentalidade e estado emocional do respectivo humano
+2. Assistência cognitiva pouco antropomorfizada
+  - (...) em especial indução de ações criativasdade da pessoa por
+   redirecionamento de força de vontade tipicamentes não criativas, sempre respeitando as crenças pessoais estáveis do humano
+3. Uma inteligência artificial que trabalha junto com o humano atendido, sem
+   substituí-lo, e relativamente pouco antropomorfizada, capaz de existir
+   sem o requerimento obrigatório de supervisão humana especializada externa (...)
+4. Não ter como requerimento obrigatório supervisão humana especializada externa (...)
+
+## Motivação dos princípios
+
+1. Da escolha de optar por ser menos antropomorfizada comparado a outros
+assistentes inteligentes pessoais típicos, mesmo que isso reduza empatia inicial
+do humano:
+  -  (...)
+
+Outros pontos importantes
+
+Assumindo não ser mais simples criar agentes inteligentes autônomos humanamente
+criativos, é factível e com custo de desenvolvimento da tecnologia assistíva
+mais plausível se houver foco em **incitar uma união humano e assistencia
+cognitiva que seja mais criativa (aqui chamada de hipercriativa)** com requisito
+mínimo de pouca ou nenhuma supervisão humana especializada externa
+
+## Relação com mecanismos de coping
+Existem diversos métodos para incentivar criatividade em humanos, mas esta
+hipótese tem como foco o uso de tecnologia mais próximo ao que pode ser
+considerado um [mecanismo de coping](https://pt.wikipedia.org/wiki/Mecanismos_de_enfrentamento)
+e que seja funcional mesmo sem supervisão humana especializada.
+
+
+<!--
 
 > TODO: melhorar a ideia quando eu tiver mais tempo (fititnt, 2017-12-12 22:44)
 
@@ -56,7 +99,7 @@ de quem percebeu a crítica (... incompleto, continuar, postos chave:
 autotelismo, altruísmo, perseverança ... ).
 
 
-<!--
+
 
 Afirma ser possível e que seria mais fácil e eficiente (em comparação ao
 desenvolvimento de agente inteligente autonomo quase _humanamente criativo_) o
