@@ -13,7 +13,9 @@ humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
   não favoráveis para mentalidade e estado emocional do respectivo humano
 - Ser assistência cognitiva pouco antropomorfizada.
 - Ser plausivamente autossuficiente para ser efetivo, sem requerimento rígido
-  de supervisão humana especializada 
+  de supervisão humana especializada
+- Promoção de comportamento autotélico mesmo quando gatilho inicial for resposta
+  a um fator estressante
 - Ser factível na época em que é desenvolvido por adotar estratégias mais
   simples e funcionais em detrimento de ser projetada para explorar potencial
   tecnológico possível
@@ -56,7 +58,22 @@ humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
     - Este princípio tipicamente deve tornar o desenvolvimento da implementação
       ainda mais fácil. Se estiver dificultando, muito provavelmente a abordagem
       está mais complexa do que o necessário, e deve ser revista.
-4. Implementações da ACHC em geral tenderão a ser mais simples do que todo
+4. Em geral um agente ACHC será ativado em resposta a algo que impede a
+   criatividade natural do humano e quando isso for resposta a um fator
+   estressante significa que tal humano não sabia como agir de forma mais
+   eficiente sem apoio.
+    - Induzir a pessoa a adotar pensamento autotélico é por si só uma forma de
+      melhorar resiliência e aumentar criatividade mesmo em situações difíceis.
+    - Assumindo que ACHC deve funcionar mesmo sem supervisão humana, e que é
+      impraticável criar algorítimos específicos para resolver problemas
+      sem ajuda de humanos além do próprio que recebe assistência, **uma
+      implementação ACHC não requer resolver problema estressante inicial,
+      algo que deve ser transparente ao humano que a utiliza**; o humano
+      pode aceitar apoio da inteligência artificial fraca para chegar em um
+      estado mental mais positivo caso não opte por procurar ajuda específica
+      para o problema, e as estratégias de melhoria tendem a ser ações
+      que tem resposta positiva independente do fator estressante inicial
+5. Implementações da ACHC em geral tenderão a ser mais simples do que todo
    potencial de hardware e software de sua época, pois a maior complexidade aqui
    entender humanos e o próprio processo criativo
 
