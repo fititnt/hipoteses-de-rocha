@@ -11,15 +11,50 @@ humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
 
 1. Ser **hiper**criativa ao induzir criatividade em condições típicamente
    não favoráveis para mentalidade e estado emocional do respectivo humano
-2. Assistência cognitiva pouco antropomorfizada
+2. Ser assistência cognitiva pouco antropomorfizada.
+
+
+3. Autossuficiente como resposta inicial: capaz de entender a gravidade
+4. Assistência cognitiva pouco antropomorfizada
   - (...) em especial indução de ações criativasdade da pessoa por
    redirecionamento de força de vontade tipicamentes não criativas, sempre respeitando as crenças pessoais estáveis do humano
-3. Uma inteligência artificial que trabalha junto com o humano atendido, sem
+5. Uma inteligência artificial que trabalha junto com o humano atendido, sem
    substituí-lo, e relativamente pouco antropomorfizada, capaz de existir
    sem o requerimento obrigatório de supervisão humana especializada externa (...)
-4. Não ter como requerimento obrigatório supervisão humana especializada externa (...)
+6. Não ter como requerimento obrigatório supervisão humana especializada externa (...)
 
 ## Motivação dos princípios
+
+1. A ACHC descrita aqui é focada para situações pontuais e não crônicas.
+   Idealmente já deve fazer parte do cotidiano do humano, tanto para aprender
+   mais sobre ele como estar mais preparada para ser compreendida quando
+   necessário.
+    - Não há impedimento de um agente que implemente ACHC possa dar suporte a um
+      humano que também esteja passando por algum acompanhamento especializado
+2. Esta hipótese usa como motivação menor antropomorfização por assumir que:
+    - É uma forma natural de ajudar o humano assistido entender que o agente que
+      implementa ACHC tem mais limitações que um humano
+    - É uma forma de mitigar o risco do humano confiar mais no assistente com ACHC
+      do que em humanos especializados
+    - Importante 1: as pessoas implementadoras de agentes ACHC, mesmo que
+      tecnologicamente esteja disponível padrões que permitam _parecer mais
+      humanizado_, considerem que isso gera um risco extra para um agente
+      inteligente projetado para dar assistência mesmo sem supervisão humana
+      especializada.
+    - Importante 2: a implementação instruções de ACHC dentro de um assistente
+      cognitivo usado por padrão no dia a dia do humano, e que tipicamente seria
+      mais antropomorfizado, também seria um risco extra, e que possivelmente
+      poderia ser reduzido, mas não evitado, se ficar mais claro para o usuário
+      que são agentes diferentes; um exemplo hipotético é que o agente ACHC
+      pode induzir estados de hipercriatividade constantes pelo fato do agente
+      principal entender que a situação estressante que levou o acionamento do
+      ACHC seria na verdade muito positiva, e que mesmo que o subsistema ACHC
+      passe a se negar dar ajuda, se assistente padrão não proteger o sistema ACHC
+      ou mesmo concordar com usuário que o ACHC passou a funcionar pior, pode
+      ser possível que o usuário apague a memória do subsistema ACHC em vez de
+      procurar ajuda humana
+    
+
 
 1. Da escolha de optar por ser menos antropomorfizada comparado a outros
 assistentes inteligentes pessoais típicos, mesmo que isso reduza empatia inicial
