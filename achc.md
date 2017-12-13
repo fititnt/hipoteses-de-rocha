@@ -9,19 +9,14 @@ humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
 
 ## Princípios
 
-1. Ser **hiper**criativa ao induzir criatividade em condições típicamente
-   não favoráveis para mentalidade e estado emocional do respectivo humano
-2. Ser assistência cognitiva pouco antropomorfizada.
-
-
-3. Autossuficiente como resposta inicial: capaz de entender a gravidade
-4. Assistência cognitiva pouco antropomorfizada
-  - (...) em especial indução de ações criativasdade da pessoa por
-   redirecionamento de força de vontade tipicamentes não criativas, sempre respeitando as crenças pessoais estáveis do humano
-5. Uma inteligência artificial que trabalha junto com o humano atendido, sem
-   substituí-lo, e relativamente pouco antropomorfizada, capaz de existir
-   sem o requerimento obrigatório de supervisão humana especializada externa (...)
-6. Não ter como requerimento obrigatório supervisão humana especializada externa (...)
+- Ser **hiper**criativa ao induzir criatividade em condições típicamente
+  não favoráveis para mentalidade e estado emocional do respectivo humano
+- Ser assistência cognitiva pouco antropomorfizada.
+- Ser plausivamente autossuficiente para ser efetivo, sem requerimento rígido
+  de supervisão humana especializada 
+- Ser factível na época em que é desenvolvido por adotar estratégias mais
+  simples e funcionais em detrimento de ser projetada para explorar potencial
+  tecnológico possível
 
 ## Motivação dos princípios
 
@@ -53,21 +48,17 @@ humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
       ou mesmo concordar com usuário que o ACHC passou a funcionar pior, pode
       ser possível que o usuário apague a memória do subsistema ACHC em vez de
       procurar ajuda humana
-    
-
-
-1. Da escolha de optar por ser menos antropomorfizada comparado a outros
-assistentes inteligentes pessoais típicos, mesmo que isso reduza empatia inicial
-do humano:
-  -  (...)
-
-Outros pontos importantes
-
-Assumindo não ser mais simples criar agentes inteligentes autônomos humanamente
-criativos, é factível e com custo de desenvolvimento da tecnologia assistíva
-mais plausível se houver foco em **incitar uma união humano e assistencia
-cognitiva que seja mais criativa (aqui chamada de hipercriativa)** com requisito
-mínimo de pouca ou nenhuma supervisão humana especializada externa
+3. O requerimento de ser plausivamente autossuficiente é um principio para
+   evitar que a ACHC fique restrita a sempre indicar respostas como "não sei,
+   procure um especialista" e induzir que implementadores de agentes da ACHC
+   optem por abordagens que tipicamente funcionariam com poucos riscos não
+   perceptíveis pelo próprio humano que a usa.
+    - Este princípio tipicamente deve tornar o desenvolvimento da implementação
+      ainda mais fácil. Se estiver dificultando, muito provavelmente a abordagem
+      está mais complexa do que o necessário, e deve ser revista.
+4. Implementações da ACHC em geral tenderão a ser mais simples do que todo
+   potencial de hardware e software de sua época, pois a maior complexidade aqui
+   entender humanos e o próprio processo criativo
 
 ## Relação com mecanismos de coping
 Existem diversos métodos para incentivar criatividade em humanos, mas esta
