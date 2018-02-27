@@ -492,7 +492,7 @@ difícil criando mundos imaginários fantásticos, a mesma, já adulta pode
 sobreviver ao ser feliz se importando com o mundo como modo de não pensar
 que si mesma não é real como pensa, mas que seu impacto poderá ser"_.
 38. [**Hipótese Assistência Cognitiva Hipercriativa**](achc.md)
-39. Mesmo que a singularidade tecnológica não seja atingida em um primeiro
+39. Mesmo que a singularidade tecnológica não seja atingida em um primeiro <!-- TODO: Reorganizar o texto dessa no futuro  (fititnt, 2018-02-27 05:09 BRT) -->
 momento com ajuda de transferência mental (_mind upload_) ou meio termo onde o
 humano usa o poder do seu cérebro orgânico como inteface de entrada de dados
 para sua assistência cognitiva pessoal, é plausível que grande parte dos
@@ -500,7 +500,7 @@ problemas mais avançados para os hardwares + softwares da primeira geração
 considerada como com inteligência compatível a humano ainda sejam resolvidas
 usando algumas dessas duas abordagens; a segunda abordagem, assumindo que haja
 um sistema operacional genérico do que seria um cérebro humano simplificado,
-muito provavelmente terão resultados promissões assumindo critérios pós
+muito provavelmente terão resultados promissores assumindo critérios pós
 singularidade tecnológica e anterior ao momento onde transferência mental
 poderia ser feita sem perdas significativas; a segunda abordagem também pode
 reduzir parte das implicações éticas de um ser humano não autorizar sua mente
@@ -509,8 +509,12 @@ seria requerido para simulações com diferenças não computáveis por máquina
 também poderia reduzir o receio de ser ou não ético com os agentes simulados
 de forma mais realista, visto que dentro de cada universo de simulação o
 principal agente simulado seria o próprio humano que estaria alimentando parte
-dos dados;
-
+dos dados; um fator adicional ao da habilidade do humano em lidar com seu
+assistente cognitivo pessoal e também o potencial de experiência de vida,
+critérios importantes para utilidade das simulações avançadas, é que o humano
+pré-existente já tenha uma mentalidade que possa lidar de forma satisfatória
+com a hipótese de que a versão dele no nosso universo poderia ser uma simulação
+e ainda assim manter uma resposta neutra ou positiva de forma estável.
 
 <!--
 
