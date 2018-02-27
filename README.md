@@ -515,6 +515,21 @@ critérios importantes para utilidade das simulações avançadas, é que o huma
 pré-existente já tenha uma mentalidade que possa lidar de forma satisfatória
 com a hipótese de que a versão dele no nosso universo poderia ser uma simulação
 e ainda assim manter uma resposta neutra ou positiva de forma estável.
+40. **A personalização por tempo razoável e habilidade do humano com sua
+[ACPR](acpr.md) pode, caso este já tenha predisposição a pesquisa com simulações,
+ser também um estágio mais próximo com ótimo custo/benefício a permitir
+simulações baseadas no poder de uma mente humana completa**; mesmo antes da
+existência de interfaces que liguem o próprio cérebro humano a máquinas com
+velocidades muito altas e certamente antes da existência uma inteligência
+artificial forte a ACPR do indivíduo, mesmo que entradas de dados pessoais
+sejam apenas voz, texto digitado, outras informações ambientais passivas e
+atualização do seu software base, tal ACPR poderá plausivamente servir como base
+para simulações que usem o poder da mente mesmo que os agentes simulados sejam
+cópias com alterações da mente do humano da respectiva ACPR; tal uso
+provavelmente deve ser mais útil a humanos que já tenham uma boa capacidade
+inata de autocompreensão e [teoria da mente](https://pt.wikipedia.org/wiki/Teoria_da_mente),
+e que trabalhem em áreas como psicologia, filosofia, pedagogia e ciências sociais
+entre outras que lidem como função principal entender a natureza humana.
 
 <!--
 
