@@ -9,7 +9,7 @@ humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
 
 ## Princípios
 
-- Ser **hiper**criativa ao induzir criatividade em condições típicamente
+- Ser hipercriativa ao induzir criatividade em condições típicamente
   não favoráveis para mentalidade e estado emocional do respectivo humano
 - Ser assistência cognitiva pouco antropomorfizada.
 - Ser plausivamente autossuficiente para ser efetivo, sem requerimento rígido
@@ -71,17 +71,25 @@ humano é induzido a ser ainda mais criativo (por isso, **hiper**criativo).
       algo que deve ser transparente ao humano que a utiliza**; o humano
       pode aceitar apoio da inteligência artificial fraca para chegar em um
       estado mental mais positivo caso não opte por procurar ajuda específica
-      para o problema, e as estratégias de melhoria tendem a ser ações
-      que tem resposta positiva independente do fator estressante inicial
+      para o problema; a abordagem estratégica que induz autotelismo
+      é um ganho-ganho considerando as limitações
+    - Indução de comportamento autotélico reduz chance erro de um agente (...)
 5. Implementações da ACHC em geral tenderão a ser mais simples do que todo
    potencial de hardware e software de sua época, pois a maior complexidade aqui
-   entender humanos e o próprio processo criativo
+   entender humanos e o próprio processo criativo. Ter isso em mente é muito
+   importante para evitar que implementadores se preocupem demais com questões
+   tecnológicas (...)
 
 ## Relação com mecanismos de coping
 Existem diversos métodos para incentivar criatividade em humanos, mas esta
 hipótese tem como foco o uso de tecnologia mais próximo ao que pode ser
 considerado um [mecanismo de coping](https://pt.wikipedia.org/wiki/Mecanismos_de_enfrentamento)
 e que seja funcional mesmo sem supervisão humana especializada.
+
+
+## Exemplos práticos
+
+### Exemplo mínimo
 
 
 <!--
