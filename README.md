@@ -530,6 +530,10 @@ provavelmente deve ser mais útil a humanos que já tenham uma boa capacidade
 inata de autocompreensão e [teoria da mente](https://pt.wikipedia.org/wiki/Teoria_da_mente),
 e que trabalhem em áreas como psicologia, filosofia, pedagogia e ciências sociais
 entre outras que lidem como função principal entender a natureza humana.
+41. **O próximo nível evolutível de Teste de Turing depende muito mais de uma
+abordagem filosófica, com colaboração ativa de humano e máquina em cada caso,
+do que completamente automatizável como no conceito de CAPTCHA largamente
+utilizado em minha época**;
 
 <!--
 
